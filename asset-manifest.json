@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lcow2425/recipe-finder.git/static/css/main.722eafe8.css",
+    "main.js": "/lcow2425/recipe-finder.git/static/js/main.e51c32b5.js",
+    "index.html": "/lcow2425/recipe-finder.git/index.html",
+    "main.722eafe8.css.map": "/lcow2425/recipe-finder.git/static/css/main.722eafe8.css.map",
+    "main.e51c32b5.js.map": "/lcow2425/recipe-finder.git/static/js/main.e51c32b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.722eafe8.css",
+    "static/js/main.e51c32b5.js"
+  ]
+}
